@@ -1,4 +1,8 @@
+
+
 # 🕵️‍♂️ **Ghost's Gaming Repository** 🎮
+
+![Ghost Gaming](https://i.pinimg.com/originals/3d/06/8a/3d068af010ecf2aefdc728afde29967c.gif)
 
 E aí, galera! Bem-vindos ao repositório oficial do **Ghost**! Aqui você vai encontrar tudo que rola no mundo dos games com o nosso streamer favorito, que tá sempre arrasando em **GTA** e **Valorant**. 😎🔥
 
